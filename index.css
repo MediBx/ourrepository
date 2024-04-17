@@ -1,3 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
 #myDiv {
     color: red;
 }
@@ -10,5 +17,7 @@
 
 p {
     background-color: darkorange;
-    border: 1px solid orangered;
+    border: 3px solid orangered;
+    border-radius: 10px;
+    padding: 10px;
 }
